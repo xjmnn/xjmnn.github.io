@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: Committed to the design and development of embedded products and new energy products.
+title: About us
+subtitle: Provide value-added services for renewable energy power conversion, power supply, battery charging management, and related systems!.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Battery management systems
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+flexiblity Battery charger managment Technolgy and solution, Application in Industrial and System intergrate!
 
-What else do you need?
+### IOT Solution
 
-### My story
+Take your smart terminal to Cloud and intergrate with App and WEB control! It's good idea in this place!
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Enable efficient Solar harvest
+
+MPPT smart controller, System Intergrate IOT and communcation with application software used in many field, And effeicent and saving power
