@@ -8,6 +8,10 @@ subtitle: Provide value-added services for renewable energy power conversion, po
 
 flexiblity Battery charger managment Technolgy and solution, Application in Industrial and System intergrate!
 
+### Smart Bidirectional power PSU and Charger
+
+A power supply system that can convert electrical energy in two directions. It allows for bidirectional energy flow, meaning it can be used as a smart charger and also as a core module for uninterruptible power supply for devices.
+
 ### IOT Solution
 
 Take your smart terminal to Cloud and intergrate with App and WEB control! It's good idea in this place!
