@@ -24,7 +24,8 @@ navbar-links:
   Resources:
     - OurWebsite-cn: "https://rfnets.com"
     - OurWebsite-Eshop: "https://rfnets.com/"
-  Author's home: "https://deanattali.com"
+  # Author's home: "https://deanattali.com"
+  Author's home: "https://rfnets.com"
 
 ################
 # --- Logo --- #
